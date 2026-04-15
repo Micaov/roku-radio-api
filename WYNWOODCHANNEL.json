@@ -1,1 +1,5 @@
-{"stream":"https://livetv.305streamhd.com:3941/live/lartvhdlive.m3u8"}
+{
+  "data":[{
+    "streamurl":"https://livetv.305streamhd.com:3941/live/lartvhdlive.m3u8"
+  }]
+}
